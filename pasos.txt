@@ -1,0 +1,92 @@
+1 - Editar detalles de la app.
+2 - Configurar servidor para conectar la api
+3 - Gestionar APK para android Y tal vez IOS
+4 - Gestionar sitio web para descargar APK.
+
+
+
+
+
+// Sorteo #1 Y PRINCIPAL.
+// Nombre: ¡GRAN SORTEO TT 200 DUAL SPORT!
+// Valor:  2.000 COP
+// Comosión: 700 COP
+// Imagenes
+// PREMIOS: Nro Ganador: 1millon
+            1ro Maximo Vendedor: 500.000 COP
+            2do Maximo Vendedor: 300.000 COP
+            3ro Maximo Vendedor: 200.000 COP
+
+// NIVEL 2  -   Tres sorteos.
+    Nombre:     KTM DUKE 200 NG
+    Valor:      4.000 COP
+    Comosión:   2.000 COP
+    Imagenes
+    PREMIOS:    Nro Ganador: 1millon
+                1ro Maximo Vendedor: 500.000 COP
+                2do Maximo Vendedor: 300.000 COP
+                3ro Maximo Vendedor: 200.000 COP
+
+
+    Nombre:     15.000.000 COP
+    Valor:      4.000 COP
+    Comosión:   2.000 COP
+    Imagenes
+    PREMIOS:    Nro Ganador: 1millon
+                1ro Maximo Vendedor: 500.000 COP
+                2do Maximo Vendedor: 300.000 COP
+                3ro Maximo Vendedor: 200.000 COP
+
+
+    Nombre:     9.000.000
+    Valor:       COP
+    Comosión:   3.000 COP
+    Imagenes
+    PREMIOS:    Nro Ganador: 1millon
+                1ro Maximo Vendedor: 500.000 COP
+                2do Maximo Vendedor: 300.000 COP
+                3ro Maximo Vendedor: 200.000 COP
+
+
+
+// NIVEL 3  - Tres sorteos
+
+    Nombre:     Kia de 40.000.000
+    Valor:      10.000 COP
+    Comisión:   4.800 COP
+    Imagenes
+    PREMIOS:    Nro Ganador: 1millon
+                1ro Maximo Vendedor: 500.000 COP
+                2do Maximo Vendedor: 300.000 COP
+                3ro Maximo Vendedor: 200.000 COP
+
+
+    Nombre:     30.000.000 COP
+    Valor:      10.000 COP
+    Comisión:   4.500 COP
+    Imagenes
+    PREMIOS:    Nro Ganador: 1millon
+                1ro Maximo Vendedor: 500.000 COP
+                2do Maximo Vendedor: 300.000 COP
+                3ro Maximo Vendedor: 200.000 COP
+
+
+// Nivel 4 - Cuatro sorteos
+    Nombre:     Casa de 4 pisos.
+    Valor:      3.000 COP
+    Comisión:   1.400 COP
+    Imagenes
+    PREMIOS:    Nro Ganador: 1millon
+                1ro Maximo Vendedor: 500.000 COP
+                2do Maximo Vendedor: 300.000 COP
+                3ro Maximo Vendedor: 200.000 COP
+
+
+    Nombre:      
+    Valor:      10.000 COP
+    Comisión:   4.500 COP
+    Imagenes
+    PREMIOS:    Nro Ganador: 1millon
+                1ro Maximo Vendedor: 500.000 COP
+                2do Maximo Vendedor: 300.000 COP
+                3ro Maximo Vendedor: 200.000 COP
