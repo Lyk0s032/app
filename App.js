@@ -16,7 +16,7 @@ import * as SecureStore from 'expo-secure-store';
 
 let server = true; 
 
-let url = server ? "https://novax.up.railway.app" : "http://192.168.100.12:3000";
+let url = server ? "https://novax-production.up.railway.app" : "http://192.168.100.12:3000";
 axios.defaults.baseURL =  url;
 console.log(url)
 

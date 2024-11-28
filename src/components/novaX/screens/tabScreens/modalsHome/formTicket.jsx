@@ -69,7 +69,7 @@ export default function FormTicket(props){
     // Factura enviada. Mostramos opciones.
     const [sended, setSended] = useState(false);
     const wppFacture = async () => {
-        let novaxLink = `https://novax-last.vercel.app/factura/${games.lotteries[0].id}`;
+        let novaxLink = `https://novax-last.vercel.app/factura/${facture.tiquete.id}`;
 const message = `NovaX. 
 
 Factura: ${novaxLink}.
@@ -91,8 +91,8 @@ Juega el ${games.lotteries[0].finish.split('-')[1]} de ${new Date(`${games.lotte
         setForm('data');
         setLoading(false);
         setNumeros({
-            val: true,
-            numbs: []
+            val: true,          
+            numbs: []           
         });
         setNumber(null);
         setSended(false);
